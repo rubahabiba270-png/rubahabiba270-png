@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Umme%20Habiba%20Ruba&fontSize=30&fontColor=ffffff" />
 
-<h1 align="center">Umme Habiba Ruba</h1>
 <h3 align="center">CSE Student | Building Software That Solves Real Problems</h3>
 
 ---
